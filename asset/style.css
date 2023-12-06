@@ -13,3 +13,16 @@ h1{
 .about_text{
     text-align: center;
 }
+
+
+
+/* ======Start About Page ==== */
+
+.about_title{
+    text-align: center;
+    color: goldenrod;
+}
+
+.about-bg{
+    max-width: 100%;
+}
