@@ -3,3 +3,13 @@ h1{
     color: green;
     text-align: center;
 }
+
+.about{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: navy;
+}
+
+.about_text{
+    text-align: center;
+}
